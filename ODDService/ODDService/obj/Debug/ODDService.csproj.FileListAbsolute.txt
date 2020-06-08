@@ -1,0 +1,17 @@
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.abstractions.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.runner.reporters.net452.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.runner.utility.net452.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\ODDService.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\ODDService.pdb
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.assert.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.core.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.execution.desktop.dll
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.assert.xml
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.core.xml
+D:\devLearn\TDD\ODDService\ODDService\bin\Debug\xunit.execution.desktop.xml
+D:\devLearn\TDD\ODDService\ODDService\obj\Debug\ODDService.csprojAssemblyReference.cache
+D:\devLearn\TDD\ODDService\ODDService\obj\Debug\ODDService.csproj.CoreCompileInputs.cache
+D:\devLearn\TDD\ODDService\ODDService\obj\Debug\ODDService.csproj.CopyComplete
+D:\devLearn\TDD\ODDService\ODDService\obj\Debug\ODDService.dll
+D:\devLearn\TDD\ODDService\ODDService\obj\Debug\ODDService.pdb
