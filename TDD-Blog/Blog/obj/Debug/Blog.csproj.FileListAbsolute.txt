@@ -1,0 +1,12 @@
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\Blog.dll.config
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\Blog.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\Blog.pdb
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\EntityFramework.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\EntityFramework.xml
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\obj\Debug\Blog.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\obj\Debug\Blog.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\obj\Debug\Blog.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\obj\Debug\Blog.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\Blog\obj\Debug\Blog.pdb

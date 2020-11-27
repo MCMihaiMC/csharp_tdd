@@ -1,0 +1,15 @@
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\BlogAppDevelopment.exe.config
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\BlogAppDevelopment.exe
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\BlogAppDevelopment.pdb
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\Blog.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\EntityFramework.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\Blog.pdb
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\Blog.dll.config
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\EntityFramework.xml
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\obj\Debug\BlogAppDevelopment.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\obj\Debug\BlogAppDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\obj\Debug\BlogAppDevelopment.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\obj\Debug\BlogAppDevelopment.exe
+C:\Users\mihai\OneDrive\Desktop\TDD-Blog\BlogAppDevelopment\obj\Debug\BlogAppDevelopment.pdb
